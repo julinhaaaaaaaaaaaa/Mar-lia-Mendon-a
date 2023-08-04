@@ -1,18 +1,19 @@
 h1 {
     strong ; collor:rgb(183, 0, 255);
     }
+   
 
-img {
-    
+img {    
     background-image:marilia.jpeg;
     padding-left:200px;
-}
- body{
-      class
- img{
-    background- image marilia1.jpeg
-    padding: left 400px;
+    width: 200px;
+    height: 200px;
+    margin:0 0 0 50px;
  }
+}
+ 
+      
+
  
 
 
